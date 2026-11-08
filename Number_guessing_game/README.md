@@ -11,4 +11,4 @@ Just run "python main.py" in cmd command line after setting the project director
 
 ## *Author Name*
 
-[Javokhir](https://github.com/leader2one/)
+[Lazizbek](https://github.com/xdwkrv/)
